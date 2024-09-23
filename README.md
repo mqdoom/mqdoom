@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mqdoom
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
